@@ -1,0 +1,6 @@
+export const ADD_DEGREE = 'ADD_DEGREE';
+export const ADD_POSITION = 'ADD_POSITION';
+export const ADD_EMPLOYEE = 'ADD_EMPLOYEE';
+export const REMOVE_DEGREE = 'REMOVE_DEGREE';
+export const REMOVE_POSITION = 'REMOVE_POSITION';
+export const REMOVE_EMPLOYEE = 'REMOVE_EMPLOYEE';
